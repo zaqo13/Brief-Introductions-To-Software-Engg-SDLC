@@ -1,0 +1,2 @@
+# Brief-Introductions-To-Software-Engg-SDLC-
+Brief Introductions To Software Engg (SDLC) Following notes are prepared by me during COVID-19 free time, using standard resources and of course Google! Brief Introduction to Software Engineering (SDLC). Introduction to Software Engineering &amp; Process Models, Agile Development, Requirements Analysis, Requirements Modeling &amp; Design Concepts Useful for people- BSc, BBA Computer Science, BE/Diploma Computer/IT, SDLC job aspirants, etc.
